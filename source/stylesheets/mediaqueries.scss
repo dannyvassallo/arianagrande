@@ -1,0 +1,36 @@
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+         #rdlogo{
+            margin-bottom: -50px;
+        }       
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+        #rdlogo{
+            margin-bottom: -50px;
+        }
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+        #rdlogo{
+            margin-bottom: -75px;
+        }
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+        #rdlogo{
+            margin-bottom: -75px;
+        }
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+        #rdlogo{
+            margin-bottom: -75px;
+        }
+    }
